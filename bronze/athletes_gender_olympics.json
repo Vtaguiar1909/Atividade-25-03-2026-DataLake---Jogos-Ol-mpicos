@@ -1,0 +1,218 @@
+[
+    {
+        "arquivo": "athletes_gender_olympics.csv",
+        "descricao": "Dados dos atletas nas respectivas edições dos Jogos Olímpicos",
+        "formato": "csv",
+        "delimitador": ",",
+        "codificacao": "latin1",
+        "quantidade_linhas": "166973",
+        "dataset": "olympic_medals",
+        "colunas": [
+            {
+                "name": "athlete_id",
+                "tipo_dado": "float64",
+                "descricao": "Identificador único do atleta"
+            },
+            {
+                "name": "name",
+                "tipo_dado": "string",
+                "descricao": "Nome completo do atleta"
+            },
+            {
+                "name": "sex",
+                "tipo_dado": "string",
+                "descricao": "Gênero do atleta"
+            },
+            {
+                "name": "birth_date",
+                "tipo_dado": "string",
+                "descricao": "Data de nascimento do atleta"
+            },
+            {
+                "name": "birth_year",
+                "tipo_dado": "float64",
+                "descricao": "Ano de nascimento do atleta"
+            },
+            {
+                "name": "height",
+                "tipo_dado": "float64",
+                "descricao": "Altura do atleta em centímetros"
+            },
+            {
+                "name": "weight",
+                "tipo_dado": "float64",
+                "descricao": "Peso do atleta em quilogramas"
+            },
+            {
+                "name": "country",
+                "tipo_dado": "string",
+                "descricao": "País representado pelo atleta"
+            },
+            {
+                "name": "country_noc",
+                "tipo_dado": "string",
+                "descricao": "Código do Comitê Olímpico Nacional"
+            },
+            {
+                "name": "description",
+                "tipo_dado": "string",
+                "descricao": "Descrição geral ou biografia do atleta"
+            },
+            {
+                "name": "special_notes",
+                "tipo_dado": "string",
+                "descricao": "Notas adicionais ou observações especiais sobre o atleta"
+            },
+            {
+                "name": "code",
+                "tipo_dado": "float64",
+                "descricao": "Código interno ou do sistema relacionado ao atleta"
+            },
+            {
+                "name": "current",
+                "tipo_dado": "object",
+                "descricao": "Indica se o atleta está atualmente ativo"
+            },
+            {
+                "name": "name_short",
+                "tipo_dado": "string",
+                "descricao": "Versão abreviada do nome do atleta"
+            },
+            {
+                "name": "name_tv",
+                "tipo_dado": "string",
+                "descricao": "Formato do nome utilizado para transmissão televisiva"
+            },
+            {
+                "name": "function",
+                "tipo_dado": "string",
+                "descricao": "Função ou papel do atleta"
+            },
+            {
+                "name": "country_code",
+                "tipo_dado": "string",
+                "descricao": "Código do país do atleta"
+            },
+            {
+                "name": "country_long",
+                "tipo_dado": "string",
+                "descricao": "Nome completo do país"
+            },
+            {
+                "name": "nationality",
+                "tipo_dado": "string",
+                "descricao": "Nacionalidade do atleta"
+            },
+            {
+                "name": "nationality_long",
+                "tipo_dado": "string",
+                "descricao": "Descrição completa da nacionalidade do atleta"
+            },
+            {
+                "name": "nationality_code",
+                "tipo_dado": "string",
+                "descricao": "Código que representa a nacionalidade do atleta"
+            },
+            {
+                "name": "disciplines",
+                "tipo_dado": "string",
+                "descricao": "Modalidades esportivas em que o atleta compete"
+            },
+            {
+                "name": "events",
+                "tipo_dado": "string",
+                "descricao": "Eventos em que o atleta participa"
+            },
+            {
+                "name": "birth_place",
+                "tipo_dado": "string",
+                "descricao": "Local de nascimento do atleta"
+            },
+            {
+                "name": "birth_country",
+                "tipo_dado": "string",
+                "descricao": "País de nascimento do atleta"
+            },
+            {
+                "name": "residence_place",
+                "tipo_dado": "string",
+                "descricao": "Local onde o atleta reside atualmente"
+            },
+            {
+                "name": "residence_country",
+                "tipo_dado": "string",
+                "descricao": "País onde o atleta reside atualmente"
+            },
+            {
+                "name": "nickname",
+                "tipo_dado": "string",
+                "descricao": "Apelido do atleta"
+            },
+            {
+                "name": "hobbies",
+                "tipo_dado": "string",
+                "descricao": "Hobbies e interesses do atleta"
+            },
+            {
+                "name": "occupation",
+                "tipo_dado": "string",
+                "descricao": "Ocupação fora do esporte"
+            },
+            {
+                "name": "education",
+                "tipo_dado": "string",
+                "descricao": "Formação educacional do atleta"
+            },
+            {
+                "name": "family",
+                "tipo_dado": "string",
+                "descricao": "Informações familiares do atleta"
+            },
+            {
+                "name": "lang",
+                "tipo_dado": "string",
+                "descricao": "Idiomas falados pelo atleta"
+            },
+            {
+                "name": "coach",
+                "tipo_dado": "string",
+                "descricao": "Treinador do atleta"
+            },
+            {
+                "name": "reason",
+                "tipo_dado": "string",
+                "descricao": "Motivação ou razão para praticar o esporte"
+            },
+            {
+                "name": "hero",
+                "tipo_dado": "string",
+                "descricao": "Herói ou inspiração esportiva do atleta"
+            },
+            {
+                "name": "influence",
+                "tipo_dado": "string",
+                "descricao": "Pessoas que influenciaram o atleta"
+            },
+            {
+                "name": "philosophy",
+                "tipo_dado": "string",
+                "descricao": "Filosofia ou mentalidade pessoal do atleta"
+            },
+            {
+                "name": "sporting_relatives",
+                "tipo_dado": "string",
+                "descricao": "Parentes envolvidos no esporte"
+            },
+            {
+                "name": "ritual",
+                "tipo_dado": "string",
+                "descricao": "Rituais pessoais ou pré-competição"
+            },
+            {
+                "name": "other_sports",
+                "tipo_dado": "string",
+                "descricao": "Outros esportes praticados pelo atleta"
+            }
+        ]
+    }
+]
