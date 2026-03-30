@@ -1,0 +1,23 @@
+[
+    {
+        "arquivo": "modalidades_olympics_summary.csv",
+        "descricao": "Dados de quantas modalidades há por olimpíada",
+        "formato": "csv",
+        "delimitador": ",",
+        "codificacao": "latin1",
+        "quantidade_linhas": "55",
+        "dataset": "modalidades_olympics_summary.csv",
+        "colunas": [
+            {
+                "nome": "edition",
+                "tipo_dado": "string",
+                "descricao": "Ano da edição dos Jogos Olímpicos"
+            },
+            {
+                "nome": "count",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de modalidades em sua totalidade nas olimpiadas"
+            }
+        ]
+    }
+]
