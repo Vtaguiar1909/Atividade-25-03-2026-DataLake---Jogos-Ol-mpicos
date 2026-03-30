@@ -1,0 +1,165 @@
+country,gold,silver,bronze,total
+United States,1223,1007,881,3111
+Soviet Union,473,376,355,1204
+Germany,361,381,368,1110
+Great Britain,317,350,359,1026
+France,288,325,362,975
+Italy,276,249,285,810
+People's Republic of China,285,231,197,713
+Sweden,215,232,244,691
+Japan,206,190,224,620
+Australia,186,196,231,613
+Canada,156,190,231,577
+Norway,211,188,176,575
+Russian Federation,194,169,188,551
+Hungary,190,165,189,544
+East Germany,192,165,162,519
+Netherlands,166,162,182,510
+Finland,149,151,185,485
+Switzerland,120,133,135,388
+Republic of Korea,129,121,116,366
+Austria,95,125,137,357
+Poland,83,102,154,339
+Romania,93,101,124,318
+Cuba,86,70,88,244
+West Germany,67,82,94,243
+Bulgaria,58,91,88,237
+Denmark,50,85,88,223
+Spain,54,77,61,192
+Belgium,51,59,74,184
+Czechoslovakia,51,58,62,171
+Brazil,40,49,81,170
+New Zealand,65,42,56,163
+Ukraine,41,43,76,160
+Unified Team,54,44,37,135
+Greece,37,46,47,130
+Kenya,39,44,41,124
+ROC,28,46,46,120
+Türkiye,41,29,41,111
+Czechia,32,33,41,106
+Belarus,21,37,47,105
+South Africa,28,37,32,97
+Jamaica,27,39,28,94
+China,40,27,24,91
+Yugoslavia,26,32,29,87
+Kazakhstan,16,27,43,86
+Argentina,22,27,31,80
+Mexico,13,27,37,77
+Islamic Republic of Iran,24,23,29,76
+Ethiopia,24,15,23,62
+Croatia,20,21,18,59
+Democratic People's Republic of Korea,16,17,24,57
+Azerbaijan,9,16,31,56
+Slovenia,14,18,23,55
+Uzbekistan,19,8,23,50
+Georgia,13,15,19,47
+Ireland,15,11,19,45
+Estonia,14,11,19,44
+Slovakia,14,18,11,43
+Chinese Taipei,9,11,23,43
+India,10,10,21,41
+Thailand,11,11,19,41
+Indonesia,10,14,15,39
+Egypt,9,11,19,39
+Colombia,5,16,17,38
+Portugal,6,11,15,32
+Korea,13,9,10,32
+Latvia,5,14,12,31
+Mongolia,2,12,17,31
+Lithuania,6,9,15,30
+Serbia,9,8,12,29
+Nigeria,3,11,13,27
+Morocco,8,5,13,26
+Armenia,2,11,9,22
+Algeria,7,4,9,20
+Israel,4,6,10,20
+Trinidad and Tobago,3,5,11,19
+Venezuela,3,7,9,19
+Tunisia,6,4,8,18
+Philippines,3,5,10,18
+The Bahamas,8,2,6,16
+Chile,3,8,4,15
+Dominican Republic,4,5,6,15
+Malaysia,0,8,7,15
+"Hong Kong, China",4,3,6,13
+Kyrgyzstan,0,5,8,13
+Uganda,5,5,3,13
+Australasia,3,4,5,12
+Puerto Rico,2,2,8,12
+IR Iran,3,6,3,12
+Pakistan,4,3,4,11
+Mixed team,4,2,4,10
+Republic of Moldova,0,3,7,10
+Uruguay,2,2,6,10
+Ecuador,4,4,2,10
+Liechtenstein,2,2,6,10
+Qatar,2,2,5,9
+Serbia and Montenegro,2,4,3,9
+Zimbabwe,3,4,1,8
+Bahrain,4,3,1,8
+Tajikistan,1,1,5,7
+Luxembourg,3,4,0,7
+Cameroon,3,1,2,6
+DPR Korea,0,2,4,6
+Singapore,1,2,3,6
+Kosovo,3,1,1,5
+Grenada,1,1,3,5
+Peru,1,3,1,5
+Vietnam,1,3,1,5
+Independent Olympic Athletes,1,1,3,5
+AIN,1,3,1,5
+Ghana,0,1,4,5
+Namibia,0,5,0,5
+Côte d'Ivoire,1,1,3,5
+Botswana,1,2,1,4
+Costa Rica,1,1,2,4
+Bohemia,0,1,3,4
+Fiji,2,1,1,4
+Kingdom of Saudi Arabia,0,2,2,4
+Jordan,1,2,1,4
+Iceland,0,2,2,4
+Syrian Arab Republic,1,1,2,4
+Panama,1,1,2,4
+Lebanon,0,2,2,4
+Kuwait,0,0,3,3
+Guatemala,1,1,1,3
+San Marino,0,1,2,3
+Zambia,0,1,2,3
+United Arab Emirates,1,0,1,2
+Cyprus,0,2,0,2
+Burundi,1,1,0,2
+Bermuda,1,0,1,2
+Afghanistan,0,0,2,2
+Albania,0,0,2,2
+Mozambique,1,0,1,2
+Sri Lanka,0,2,0,2
+Suriname,1,0,1,2
+Saint Lucia,1,1,0,2
+North Macedonia,0,1,1,2
+United Republic of Tanzania,0,2,0,2
+West Indies Federation,0,0,2,2
+United Arab Republic,0,1,1,2
+Niger,0,1,1,2
+Haiti,0,1,1,2
+Barbados,0,0,1,1
+Burkina Faso,0,0,1,1
+Cabo Verde,0,0,1,1
+Djibouti,0,0,1,1
+Gabon,0,1,0,1
+EOR,0,0,1,1
+Netherlands Antilles,0,1,0,1
+Montenegro,0,1,0,1
+Monaco,0,0,1,1
+Mauritius,0,0,1,1
+Iraq,0,0,1,1
+Eritrea,0,0,1,1
+Dominica,1,0,0,1
+Guyana,0,0,1,1
+Samoa,0,1,0,1
+Senegal,0,1,0,1
+Paraguay,0,1,0,1
+Sudan,0,1,0,1
+Turkmenistan,0,1,0,1
+Tonga,0,1,0,1
+Togo,0,0,1,1
+United States Virgin Islands,0,1,0,1

@@ -1,0 +1,33 @@
+[
+    {
+        "arquivo": "athletes_gender_summary.csv",
+        "descricao": "Dados dos generos pelos países nas respectivas edições dos Jogos Olímpicos",
+        "formato": "csv",
+        "delimitador": ",",
+        "codificacao": "latin1",
+        "quantidade_linhas": "153",
+        "dataset": "athletes_gender_summary.csv",
+        "colunas": [
+            {
+                "nome": "country",
+                "tipo_dado": "float64",
+                "descricao": "Ano da edição dos Jogos Olímpicos"
+            },
+            {
+                "nome": "Female",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de participantes mulheres em sua totalidade nas olimpiadas"
+            },
+            {
+                "nome": "Male",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de participantes homens em sua totalidade nas olimpiadas"
+            },
+            {
+                "nome": "Total",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de participantes por paises em sua totalidade nas olimpiadas"
+            }
+        ]
+    }
+]

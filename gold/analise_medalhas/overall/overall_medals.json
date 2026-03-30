@@ -1,0 +1,38 @@
+[
+    {
+        "arquivo": "overall_medals.csv",
+        "descricao": "Dados das medalhas totais das olimpiadas(Summer + Winter) conquistadas pelos países nas respectivas edições dos Jogos Olímpicos",
+        "formato": "csv",
+        "delimitador": ",",
+        "codificacao": "latin1",
+        "quantidade_linhas": "164",
+        "dataset": "overall_medals.csv",
+        "country,gold,silver,bronze,totalcolunas": [
+            {
+                "nome": "country",
+                "tipo_dado": "float64",
+                "descricao": "Ano da edição dos Jogos Olímpicos"
+            },
+            {
+                "nome": "gold",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de medalhas de ouro totais nas olimpiadas"
+            },
+            {
+                "nome": "silver",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de medalhas de prata totais nas olimpiadas"
+            },
+            {
+                "nome": "bronze",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de medalhas de bronze totais nas olimpiadas"
+            },
+            {
+                "nome": "total",
+                "tipo_dado": "int64",
+                "descricao": "Quantidade de medalhas totais nas olimpiadas"
+            }
+        ]
+    }
+]
